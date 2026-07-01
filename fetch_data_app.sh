@@ -11,5 +11,6 @@ mv aad-app-dev/*.* ./
 mv aad-app-dev/xslt/ ./xslt
 mv aad-app-dev/html/ ./html
 mv aad-app-dev/build_app/ ./build_app
+mv aad-app-dev/resources/ ./resources
 rm -rf aad-app-dev
 rm dev.zip
